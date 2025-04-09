@@ -40,7 +40,7 @@ func populatingArrays() -> [Int] {
 
 // Function to sort the array using bubble sort
 func bubbleSort(arrayInt: [Int]) -> [Int] {
-    
+
     // this line is to create a copy of the array
     // so that the original array is not modified
     var array = arrayInt
